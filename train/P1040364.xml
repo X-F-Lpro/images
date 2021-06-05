@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detailaufnahmen_Labeled</folder>
+	<filename>P1040364.JPG</filename>
+	<path>C:\Users\felix\Documents\uni\Detailaufnahmen_Labeled\P1040364.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SMD_Con</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1944</xmin>
+			<ymin>1941</ymin>
+			<xmax>2409</xmax>
+			<ymax>2501</ymax>
+		</bndbox>
+	</object>
+</annotation>

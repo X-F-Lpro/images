@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detailaufnahmen</folder>
+	<filename>P1040334.JPG</filename>
+	<path>C:\Users\felix\Documents\uni\Detailaufnahmen\P1040334.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8PinOperationalAmplifier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1795</xmin>
+			<ymin>1112</ymin>
+			<xmax>2329</xmax>
+			<ymax>1615</ymax>
+		</bndbox>
+	</object>
+</annotation>
